@@ -2,13 +2,13 @@
 
 **Project Summary:** 
 
-. This project aimed to analyze pizza sales performance to uncover key business insights using SQL, Python, Excel, and Power BI. The process involved extracting, cleaning, and analyzing sales data to evaluate revenue trends, product performance, and customer purchase behavior.
+This project aimed to analyze pizza sales performance to uncover key business insights using SQL, Python, Excel, and Power BI. The process involved extracting, cleaning, and analyzing sales data to evaluate revenue trends, product performance, and customer purchase behavior.
 
-. Using SQL, essential KPIs such as total revenue, total pizzas sold, average order value, and best/worst-selling pizzas were derived. Python (Pandas, NumPy, Matplotlib, Seaborn) was used for exploratory data analysis (EDA) and visualization to identify sales patterns by date, category, and size. In Excel, pivot tables and charts were created to summarize category-wise and monthly sales, while Power BI dashboards visualized KPIs and performance insights interactively.
+Using SQL, essential KPIs such as total revenue, total pizzas sold, average order value, and best/worst-selling pizzas were derived. Python (Pandas, NumPy, Matplotlib, Seaborn) was used for exploratory data analysis (EDA) and visualization to identify sales patterns by date, category, and size. In Excel, pivot tables and charts were created to summarize category-wise and monthly sales, while Power BI dashboards visualized KPIs and performance insights interactively.
 
 **Tools & Technologies Used**
 
-SQL – PostgreSQL data extraction, transformation,and quering soilving business problems
+SQL – PostgreSQL data extraction, transformation,and quering solving business problems
 
 Python – Pandas, NumPy, Matplotlib, Seaborn,EDA
 
