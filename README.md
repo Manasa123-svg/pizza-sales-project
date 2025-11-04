@@ -1,4 +1,4 @@
-# pizza-sales-project
+# pizza sales project 
 
 **Project Summary:** 
 
@@ -42,9 +42,9 @@ Created and managed the pizza_sales database and table structure.
 
 . Cleaned and transformed data (handled null values, duplicates, date formats).
 
-. Visualized insights using Matplotlib and Seaborn:
+**Visualized insights using Matplotlib and Seaborn:**
 
-**Daily and monthly sales trends.**
+Daily and monthly sales trends.
 
 Category and size contribution to revenue.
 
