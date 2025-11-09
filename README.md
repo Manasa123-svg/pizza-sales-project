@@ -17,7 +17,7 @@ To analyze a full year of pizza sales data to identify key performance trends, u
 
 **Power Bi,Excel:** Interactive Dashboarding & Visualization
 
-**Phase 1:** Data Exploration, Cleaning, and Preparation (Python)
+# Phase 1: Data Exploration, Cleaning, and Preparation (Python)
 
 The project begins in a Jupyter Notebook using Python, which is ideal for initial data wrangling and exploratory analysis.
 
@@ -41,7 +41,7 @@ New columns order_day and order_month are created from the order_date to enable 
 Using the SQLAlchemy library, a connection is established to a PostgreSQL database.
 The cleaned and prepared DataFrame is loaded into a new table named pizza_sales, making the data ready for robust SQL querying.
 
-**Phase 2:** Data Querying and Aggregation (SQL)
+# Phase 2:Data Querying and Aggregation (SQL)
 
 With the clean data residing in a PostgreSQL database, SQL is used to perform all the necessary aggregations and calculations. This is the core logic engine that feeds the final dashboards.
 
@@ -61,7 +61,7 @@ Queries calculate the percentage of total sales contributed by each pizza_catego
 
 A series of GROUP BY, ORDER BY, and LIMIT 5 queries are used to identify the Top 5 and Bottom 5 best- and worst-selling pizzas by three key metrics: Total Revenue, Total Quantity, and Total Orders.
 
-**Phase 3:** Interactive Dashboarding & Visualization
+# Phase 3:Interactive Dashboarding & Visualization
 
 The aggregated data and insights derived from the SQL queries are visualized using two leading BI tools: Power BI and Excel. Both dashboards serve the same purpose but showcase different implementation methods.
 
