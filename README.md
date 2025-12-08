@@ -112,4 +112,5 @@ The analysis from all three tools converges to provide the following actionable 
 **Size:** Large size pizzas are the most significant contributor to total sales, indicating an opportunity for upselling strategies.
 
 https://github.com/Manasa123-svg/pizza-sales-project/blob/main/pizza_sales%20home%20Dashboard%20power%20bi.png
+https://github.com/Manasa123-svg/pizza-sales-project/blob/main/pizza_sales%20best%20and%20worst%20sellers%20dashboard%20power%20bi.png
 
