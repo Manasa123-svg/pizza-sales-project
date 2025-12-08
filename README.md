@@ -110,3 +110,6 @@ The analysis from all three tools converges to provide the following actionable 
 **Category:** The Classic category is the most popular, contributing the highest share of sales and orders.
 
 **Size:** Large size pizzas are the most significant contributor to total sales, indicating an opportunity for upselling strategies.
+
+https://github.com/Manasa123-svg/pizza-sales-project/blob/main/pizza_sales%20home%20Dashboard%20power%20bi.png
+
