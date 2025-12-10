@@ -17,6 +17,18 @@ To analyze a full year of pizza sales data to identify key performance trends, u
 
 **Power Bi,Excel:** Interactive Dashboarding & Visualization
 
+# ⭐ KPIS
+
+**Total Revenue:** 817.86K
+
+**Average Order Value:** 38.31
+
+**Total Pizzas Sold:** 49,574
+
+**Total Orders:** 21K
+
+**Average Pizzas per Order:** 2.32
+
 # Phase 1: Data Exploration, Cleaning, and Preparation (Python)
 
 The project begins in a Jupyter Notebook using Python, which is ideal for initial data wrangling and exploratory analysis.
